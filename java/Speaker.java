@@ -7,4 +7,20 @@ public class Speaker {
         System.out.println("speak, 在这里修改了Bug");
         System.out.println("Bug已修改");
     }
+
+    /**
+     * 增加方法
+     */
+    public void tell(){
+        System.out.println("增加方法");
+    }
+
+    public void listen(){
+        System.out.println("listen");
+    }
+
+    public void read(){
+        System.out.println("read，这时有修改");
+        System.out.println("增加逻辑");
+    }
 }
