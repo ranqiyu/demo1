@@ -17,4 +17,8 @@ public class Speaker {
     public void listen(){
         System.out.println("listen");
     }
+
+    public void read(){
+        System.out.println("read");
+    }
 }
