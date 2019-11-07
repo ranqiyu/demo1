@@ -9,5 +9,6 @@ public class Main {
 
         Speaker s = new Speaker();
         s.speak();
+        s.tell();
     }
 }
