@@ -13,4 +13,8 @@ public class Speaker {
     public void tell(){
         System.out.println("增加方法");
     }
+
+    public void listen(){
+        System.out.println("listen");
+    }
 }
