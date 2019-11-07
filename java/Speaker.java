@@ -19,6 +19,7 @@ public class Speaker {
     }
 
     public void read(){
-        System.out.println("read");
+        System.out.println("read，这时有修改");
+        System.out.println("增加逻辑");
     }
 }
