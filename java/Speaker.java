@@ -4,7 +4,8 @@
  */
 public class Speaker {
     public void speak(){
-        System.out.println("speak。我也在这里修改了代码，和master有冲突。");
+        System.out.println("speak, 在这里修改了Bug");
+        System.out.println("Bug已修改");
     }
 
     /**
