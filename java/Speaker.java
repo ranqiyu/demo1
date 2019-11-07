@@ -15,6 +15,10 @@ public class Speaker {
         System.out.println("增加方法");
     }
 
+    public void listen(){
+        System.out.println("listen");
+    }
+
     public void read(){
         System.out.println("read，这时有修改");
         System.out.println("增加逻辑");
